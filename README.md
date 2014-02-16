@@ -3,7 +3,7 @@ Forked from: https://bitbucket.org/foldr/dokku-elasticsearch-plugin
 # Dokku Elasticsearch Plugin
 
 The dokku elasticsearch plugin adds an elasticsearch service to your
-dokku stack. (currently using version 90.3 of elasticsearch)
+dokku stack. (currently using version 1.0.0 of elasticsearch)
 
 ## Installation
 
